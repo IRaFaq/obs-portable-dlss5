@@ -4,4 +4,5 @@
 
 
 Fonte "nvngx_dlssnr.dll": https://github.com/Dagherbou/OptiScaler_DLSSNR/releases
+
 Open source: https://github.com/Saganaki22/obs-dlss5-nr
