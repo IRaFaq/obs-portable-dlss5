@@ -3,7 +3,7 @@
 <img src="assets/01.png" alt="OBS" width="800">
 
 
-DLL (RTX 40) "nvngx_dlssnr.dll": https://github.com/Dagherbou/OptiScaler_DLSSNR/releases
+DLL (RTX 40) "nvngx_dlssnr.dll": https://github.com/ShyVortex/dlss-unlocked/releases
 
 DLL (RTX 50) "nvngx_dlssnr.dll": https://github.com/RankFTW/rhi-repo/releases/tag/dlssnr-310.9.16-nvidia
 
